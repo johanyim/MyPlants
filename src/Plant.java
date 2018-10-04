@@ -72,7 +72,23 @@ public class Plant {
 	}
 	
 	public static void main(String[] args) {
-		Plant myPlant = new Plant(); 
+		
+		Broccoli broco = new Broccoli();
+		
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 }

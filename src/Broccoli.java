@@ -1,4 +1,6 @@
 
-public class Broccoli {
+public class Broccoli extends Plant{
 
+	
+	
 }
